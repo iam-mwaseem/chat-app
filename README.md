@@ -1,0 +1,2 @@
+# chat-app
+ This feature-rich web application is built with the MERN stack, providing seamless communication and user interaction. With global error handling at the backend, authentication, and robust RestFul APIs, users can experience a secure and smooth chatting experience. The front-end, developed in React, offers a user-friendly interface with optimization techniques to ensure responsiveness across devices.
